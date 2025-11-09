@@ -1,1 +1,0 @@
-If you uninstall VS Code, before your reinstall make sure git is installed first. When you install VD Code it will automaticly detect git and git's pathway. This only works if git is installed before VS Code.
